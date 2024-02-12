@@ -1,0 +1,20 @@
+import React from "react";
+
+const LogedInArrow = () => {
+  return (
+    <svg
+      width='12'
+      height='6'
+      viewBox='0 0 12 6'
+      fill='none'
+      xmlns='http://www.w3.org/2000/svg'
+    >
+      <path
+        d='M6 6L0.803847 -2.51245e-08L11.1962 8.834e-07L6 6Z'
+        fill='#003349'
+      />
+    </svg>
+  );
+};
+
+export default LogedInArrow;
